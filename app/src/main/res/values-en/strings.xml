@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Laboratories</string>
+    <string name="titulo">Management of laboratories</string>
+    <string name="tituloAltasBajas">To register and unsubcribe an employee</string>
+    <string name="altas">To register employees</string>
+    <string name="apellido">Surname</string>
+    <string name="id_laboratorio">ID Laboratory</string>
+    <string name="crear">To register</string>
+    <string name="nombre">Name</string>
+    <string name="bajas">Unsubcribe employees</string>
+    <string name="eliminar">Delete</string>
+    <string name="escribirid">Write ID Employee</string>
+    <string name="cambioPermisos">Changes of permits</string>
+    <string name="idPersonal">ID of the person</string>
+    <string name="cambiarPermiso">Change permits</string>
+    <string name="idLaboratorio">ID Laboratory</string>
+    <string name="cierre">Laboratory close</string>
+    <string name="apertura">Laboratory Open</string>
+    <string-array name="botonesMenu">
+        <item>Employee List</item>
+        <item>Change permits laboratory</item>
+        <item>To register and unsubcribe  employees</item>
+        <item>Close management of a laboratory</item>
+    </string-array>
+    <string-array name="botonesAltasBajas">
+        <item>Ro register employess</item>
+        <item>Unsubcribe employees</item>
+    </string-array>
+</resources>

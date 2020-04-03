@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Laboratorios</string>
+    <string name="titulo">Gestión de laboratorios</string>
+    <string name="tituloAltasBajas">Altas y bajas de personal</string>
+    <string name="altas">Altas de personal</string>
+    <string name="apellido">Apellido</string>
+    <string name="id_laboratorio">ID Laboratorio</string>
+    <string name="crear">Dar de alta</string>
+    <string name="nombre">Nombre</string>
+    <string name="bajas">Bajas de personal</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="escribirid">Escribir ID de personal</string>
+    <string name="bienvenida">Bienvenida</string>
+    <string name="cambioPermisos">Cambio de permisos</string>
+    <string name="idPersonal">Id de la persona</string>
+    <string name="cambiarPermiso">Cambiar Permiso</string>
+    <string name="idLaboratorio">ID Laboratorio</string>
+    <string name="cierre">Cierre de Laboratorio</string>
+    <string name="apertura">Apertura de laboratorio</string>
+    <string name="login">LOGIN LABORATORIO</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="acceder">Acceder</string>
+    <string name="laboratorio">Laboratorio</string>
+    <string-array name="botonesMenu">
+        <item>Listado del personal</item>
+        <item>Cambio permisos laboratorio</item>
+        <item>Alta y bajas del personal</item>
+        <item>Gestión cierre laboratorio</item>
+        <item>Login en laboratorio</item>
+    </string-array>
+    <string-array name="botonesAltasBajas">
+        <item>Alta de personal</item>
+        <item>Baja de personal</item>
+    </string-array>
+</resources>
